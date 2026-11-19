@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Coffee Talk">
+  <defs>
+    <clipPath id="tile"><rect width="128" height="128" rx="27"/></clipPath>
+  </defs>
+  <g clip-path="url(#tile)">
+    <path fill="#A85D3A" d="M0 0h128v128H0z"/>
+    <path fill="#80422B" d="M43 128c5-44 35-71 85-77v77z"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M37 33h54a12 12 0 0 1 12 12v36a12 12 0 0 1-12 12H54l-18 12V93a12 12 0 0 1-11-12V45a12 12 0 0 1 12-12Z"/>
+    <path d="M45 58h32v8a12 12 0 0 1-12 12h-8a12 12 0 0 1-12-12v-8Zm32 2h6a5 5 0 0 1 0 10h-7M43 83h40M59 49h7"/>
+  </g>
+</svg>
