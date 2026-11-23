@@ -21,3 +21,5 @@ h2 { margin: 0 0 .7rem; font-size: 1.25rem; }
 
 
 .tile-icon { display: block; flex: 0 0 auto; object-fit: contain; border-radius: .6rem; }
+.brand-footer { padding-block: 1rem 2rem; border-top: 1px solid #cbd9dd; color: #18222B; text-align: center; font-size: .875rem; }
+.brand-footer p { margin: 0; }
